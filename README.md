@@ -3,7 +3,9 @@
 
 ## 📸 Скриншот
 
-![Скриншот приложения](images/screenshot.png)
+<img width="881" height="1249" alt="image2" src="https://github.com/user-attachments/assets/702de5a2-4b6e-4b3b-a973-31b260c34454" />
+<img width="883" height="1256" alt="image1" src="https://github.com/user-attachments/assets/1e5f91e9-4852-4483-95b7-2df0436946e6" />
+
 
 ##  Функциональность
 
